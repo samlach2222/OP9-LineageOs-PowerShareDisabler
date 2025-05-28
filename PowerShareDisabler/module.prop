@@ -1,0 +1,7 @@
+id=powershare_disabler
+name=PowerShare Service Disabler
+version=1.0
+versionCode=1
+author=Samlach22
+description=Disables vendor.lineage.powershare-service.oplus.rc via Magisk overlay
+
